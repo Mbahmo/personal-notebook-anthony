@@ -8,20 +8,20 @@ const config = {
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
 		"logoLink": "https://learn.hasura.io",
-		"title": "Gatsby Gitbook Boilerplate",
+		"title": "Anthony's NoteBook",
 		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
 			{ "text": "", "link": ""}
 		],
-		"search": {
-			"enabled": false,
-			"indexName": "",
-			"algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
-			"algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-			"algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
-		}
+    "search": {
+      "enabled": false,
+      "indexName": "Anthony",
+      "algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
+      "algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
+      "algoliaAdminKey": process.env.ALGOLIA_ADMIN_KEY
+    },
 	},
 	"sidebar": {
 		"forcedNavOrder": [
@@ -45,10 +45,10 @@ const config = {
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
 	"pwa": {
-		"enabled": false, // disabling this will also remove the existing service worker.
+		"enabled": true, // disabling this will also remove the existing service worker.
 		"manifest": {
-			"name": "Gatsby Gitbook Starter",
-			"short_name": "GitbookStarter",
+			"name": "Anthony's Notebook",
+			"short_name": "Anthony's Notebook",
 			"start_url": "/",
 			"background_color": "#6b37bf",
 			"theme_color": "#6b37bf",
