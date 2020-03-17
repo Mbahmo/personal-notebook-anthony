@@ -1,22 +1,23 @@
+
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
-		"siteUrl": "https://learn.hasura.io",
+		"siteUrl": "https://anthonylee.netlify.com/",
 		"gaTrackingId": null,
 		"trailingSlash": false
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/favicon.png",
-		"logoLink": "https://learn.hasura.io",
+		"logo": "https://avatars0.githubusercontent.com/u/35132441?s=460&u=27251c3ce82c53741cf64b53276c82382cdb555c&v=4",
+		"logoLink": "https://github.com/Mbahmo",
 		"title": "Anthony's NoteBook",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"githubUrl": "https://github.com/Mbahmo",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
 			{ "text": "", "link": ""}
 		],
     "search": {
-      "enabled": false,
+      "enabled": !!process.env.GATSBY_ALGOLIA_APP_ID,
       "indexName": "Anthony",
       "algoliaAppId": process.env.GATSBY_ALGOLIA_APP_ID,
       "algoliaSearchKey": process.env.GATSBY_ALGOLIA_SEARCH_KEY,
@@ -28,20 +29,26 @@ const config = {
 			"/introduction", // add trailing slash if enabled above
     		"/codeblock"
 		],
-    	"collapsedNav": [
-      		"/codeblock" // add trailing slash if enabled above
-    	],
+   "collapsedNav": [
+      "/talks",
+      "/quotes",
+      "/podcasts",
+      "/programming",
+      "/languages",
+      "/books",
+      "/health"
+    ],
 		"links": [
-			{ "text": "Hasura", "link": "https://hasura.io"},
+			{ "text": "", "link": ""},
 		],
 		"frontline": false,
 		"ignoreIndex": true,
 	},
 	"siteMetadata": {
-		"title": "Gatsby Gitbook Boilerplate | Hasura",
-		"description": "Documentation built with mdx. Powering learn.hasura.io ",
+		"title": "Anthony's Notebook",
+		"description": "My Personal Notebook",
 		"ogImage": null,
-		"docsLocation": "https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content",
+		"docsLocation": "https://github.com/Mbahmo/personal-notebook-anthony",
 		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
 	},
 	"pwa": {
