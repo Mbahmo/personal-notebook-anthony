@@ -47,7 +47,7 @@ const config = {
 		"title": "Anthony's Notebook",
 		"description": "My Personal Notebook",
 		"ogImage": null,
-		"docsLocation": "https://github.com/Mbahmo/personal-notebook-anthony",
+		"docsLocation": "https://github.com/Mbahmo/personal-notebook-anthony/blob/master/content",
 		"favicon": "logo.svg"
 	},
 	"pwa": {
