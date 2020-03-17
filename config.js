@@ -1,4 +1,3 @@
-
 const config = {
 	"gatsby": {
 		"pathPrefix": "/",
@@ -8,7 +7,7 @@ const config = {
 	},
 	"header": {
 		"logo": "https://avatars0.githubusercontent.com/u/35132441?s=460&u=27251c3ce82c53741cf64b53276c82382cdb555c&v=4",
-		"logoLink": "https://github.com/Mbahmo",
+		"logoLink": "/",
 		"title": "Anthony's NoteBook",
 		"githubUrl": "https://github.com/Mbahmo",
 		"helpUrl": "",
@@ -49,7 +48,7 @@ const config = {
 		"description": "My Personal Notebook",
 		"ogImage": null,
 		"docsLocation": "https://github.com/Mbahmo/personal-notebook-anthony",
-		"favicon": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg"
+		"favicon": "logo.svg"
 	},
 	"pwa": {
 		"enabled": true, // disabling this will also remove the existing service worker.
