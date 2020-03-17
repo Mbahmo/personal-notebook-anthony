@@ -1,7 +1,7 @@
 ---
-title: "Korean 한국"
-metaTitle: "South Korea"
-metaDescription: "South Korea"
+title: "Self-Development"
+metaTitle: "Self-Development"
+metaDescription: "My Self-Development Sources"
 ---
 
 # Self-Development
