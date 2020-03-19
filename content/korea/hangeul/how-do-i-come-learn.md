@@ -16,5 +16,5 @@ As Chinese-Indonesian born though, i have a familiarities with chinese-shape.
 - Talk To Me In Korean
 - Conversational Korean (https://www.youtube.com/channel/UCYh6ilkmW_wXmSgqq-xdqUQ)
 
-## My First Handwriting lol (It's So Messy)
+## My First Handwriting lol (It's So Mess lol)
 ![alt text](/handwriting.jpg "title")
