@@ -9,9 +9,10 @@ As for that, i REALLY required to learn the languages and how read/write first.
 
 Well,
 It was hard though at first.
-As Chinese-Indonesian born though, i have a familiarities with chinese-shape.
+As Chinese-Indonesian born though, i have a familiarities with chinese-shape character.
 
 # Some resources i use :
+- Duolingo
 - Pimsleur Korean
 - Talk To Me In Korean
 - Conversational Korean (https://www.youtube.com/channel/UCYh6ilkmW_wXmSgqq-xdqUQ)
