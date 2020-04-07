@@ -1,7 +1,7 @@
 ---
-title: "TIER 0 Anime"
-metaTitle: "TIER 0 Anime"
-metaDescription: "TIER 0 Anime"
+title: "Tier 0 Anime"
+metaTitle: "Tier 0 Anime"
+metaDescription: "Tier 0 Anime"
 ---
 # This is my best list anime (Tier 0)
 ## Jojo's Bizzare Adventure
