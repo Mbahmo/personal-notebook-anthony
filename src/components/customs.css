@@ -1,0 +1,11 @@
+.navBarDefault {
+  background-color: #17171a;
+  box-shadow: initial !important;
+  border-bottom: 1px solid #fff !important;
+}
+.css-dh0tux {
+  background: -webkit-linear-gradient(top,#060606,#282828);
+}
+.sideBarUL .item>a:hover {
+  background-color: #57535c;
+}

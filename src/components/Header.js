@@ -3,6 +3,7 @@ import { StaticQuery, graphql } from 'gatsby';
 import GitHubButton from 'react-github-btn'
 import Link from './link';
 import './styles.css';
+import './customs.css';
 import config from '../../config.js';
 
 import Loadable from 'react-loadable';
