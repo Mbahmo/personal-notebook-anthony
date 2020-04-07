@@ -10,8 +10,6 @@ metaDescription: "TIER 0 Anime"
 [Jojo's Bizzare Adventure](https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV) is based from Joestar Family stories where they family was corrupted some retard adopted children.
 For my personal analysis, JoJo is fullfiled with action, an logical thinking and stories that blows your mind (Really Bizzare as its name lol)
 
-NB : All of this list are based my personal preference.
-
 ## One Outs
 ![One Outs](https://cdn.myanimelist.net/images/anime/13/22669.jpg "One Outs")
 
@@ -24,4 +22,6 @@ NB : All of this list are based my personal preference.
 
 [Fullmetal Alchemist Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) is Magic, Fantasy anime based.
 The story beginning with dark story from edward and elric do a ritual for revive their mother and ended with very fascinating ending.
-I very like the overall plot and the action, it's no joke if they were ranke 1# lol.
+I very like the overall plot and the action, it's no joke if they were ranked 1# lol.
+
+NB : All of this list are based my personal preference.
