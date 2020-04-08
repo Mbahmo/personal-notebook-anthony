@@ -1,7 +1,7 @@
 ---
-title: "Process Learning #1"
-metaTitle: "Process Learning #1"
-metaDescription: "Process Learning #1"
+title: "Process Learning"
+metaTitle: "Process Learning"
+metaDescription: "Process Learning"
 ---
 
 At the first, i was learning korean self-taught
