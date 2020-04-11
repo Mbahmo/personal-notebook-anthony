@@ -6,7 +6,8 @@
 .css-dh0tux {
   background: #17161a !important;
 }
-.sideBarUL .item>a:hover {
+.sideBarUL .item>a:hover,
+.hideFrontLine .active>a {
   background-color: #57535c;
 }
 /* .sideBarUL .item > a.sideBarUL ul .item > ul > li > a {
