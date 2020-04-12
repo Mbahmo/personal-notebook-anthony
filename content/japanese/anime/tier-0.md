@@ -30,4 +30,11 @@ I very like the overall plot and the action, it's no joke if they were ranked 1#
 The story starts with a book that dropped by god of death (Shinighami) to human world that picked up by Japanese university student, Kira Yagami.
 THE STORY IS VERY GOOD (NO JOKE), i love how the plot/storyline is and how every detail on the anime that explained along with stories.
 
+## Hellsing Ultimate / Hellsing
+![Hellsing]https://cdn.myanimelist.net/images/anime/6/7333.jpg "Hellsing")
+
+[Hellsing](https://myanimelist.net/anime/777/Hellsing_Ultimate) is an anime that tells about great world war organization between english, rome, and german.
+The Main Character, Alucard is a immortall vampire that turned out to be targeted by every church organization in the world.
+I'd love how they do the action, the story and how insane visual is.
+
 NB : All of this list are based my personal preference.
