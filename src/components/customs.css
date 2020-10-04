@@ -13,3 +13,11 @@
 /* .sideBarUL .item > a.sideBarUL ul .item > ul > li > a {
   display: none;
 } */
+
+.title.secondary {
+  border-left: 2px solid #57535c !important;
+}
+
+a.secondary {
+  color: #57535c !important;
+}
